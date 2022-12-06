@@ -1,3 +1,4 @@
+# YandexLyc
 def my_superfunction():
     print('Hello Python')
 
@@ -12,3 +13,4 @@ def main():
 
 if __name__ == '__main__':
     main()
+    print(1)
